@@ -9,6 +9,6 @@
 | **Course** | TEB2023: Artificial Intelligence |
 | **Programme** | Bachelor of Computer Science |
 | **Lab Group** | Lab Group 3 |
-| **Link GitHub Repo** | [Lab Group 3](https://github.com/AfifahKhaira/Artifical-Intelligence-Lab3) |
+| **Link GitHub Repo** | https://github.com/AfifahKhaira/Artifical-Intelligence-Lab3 |
 
 --- 
