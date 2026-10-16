@@ -1,0 +1,10 @@
+[
+  "utils/test_search.py::test_astar_matches_ucs_with_consistent_heuristic",
+  "utils/test_search.py::test_bfs_and_ucs_optimize_different_objectives",
+  "utils/test_search.py::test_cycles_terminate",
+  "utils/test_search.py::test_frontier_update_finds_cheaper_path",
+  "utils/test_search.py::test_gbfs_is_not_assumed_optimal",
+  "utils/test_search.py::test_negative_cost_is_rejected",
+  "utils/test_search.py::test_start_equals_goal",
+  "utils/test_search.py::test_unreachable_goal"
+]
