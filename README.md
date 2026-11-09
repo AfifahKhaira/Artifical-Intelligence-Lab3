@@ -30,5 +30,5 @@
 
 | Assignment | Document / File & Evidence |
 | :--- | :--- |
-| **Assignment 2 (Week 05)** | [Assignment 2 Document](assignments/Assignment_2_week05.docx) |
+| **Assignment 2 (Week 05)** | [Assignment 2 Document](assignments/Assignment%202_week05.docx) |
 | **Assignment 3 (Week 09)** | [PDF Submission](assignments/Assignment%203_week09/Lab06_OCR_Assignment_TuanNurAfifahKhairaZulfaBintiTuanZaki_24006290.pdf)<br><br>[Evidence Folder](assignments/Assignment%203_week09/evidence/) |
