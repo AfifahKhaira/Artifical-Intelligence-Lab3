@@ -1,0 +1,9 @@
+filename,truth,prediction,failure_type
+IMG_20241006_144408 - Copy.jpg,tab nims 100mg,nims,character confusion
+IMG_20241006_151638.jpg,tab covam 5-80mg,covam,character confusion
+IMG_20241006_151719.jpg,tab fexet 60mg,fexet,character confusion
+IMG_20241006_152333.jpg,cap risek 20mg,risek,character confusion
+IMG_20241006_144119 - Copy.jpg,tab azitma 500mg,azitma,character confusion
+IMG_20241006_144753.jpg,cap caricef 40mg,caricef,character confusion
+IMG_20241006_150130.jpg,tab my d,myd,character confusion
+IMG_20241006_151222.jpg,tab my d,myd,character confusion

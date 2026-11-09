@@ -1,0 +1,177 @@
+filename,pipeline,truth,prediction,truth_norm,prediction_norm,ocr_status,ocr_detail,exact,edits,normalised_edit_distance
+IMG_20241006_141949 - Copy.jpg,baseline,tab azimax,azimax,tabazimax,azimax,cached,validated prediction supplied with the course package,False,3,0.3333333333333333
+IMG_20241006_142328 - Copy.jpg,baseline,tab toniflex,toniflex,tabtoniflex,toniflex,cached,validated prediction supplied with the course package,False,3,0.2727272727272727
+IMG_20241006_142533 - Copy.jpg,baseline,nims,nims,nims,nims,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_142757 - Copy.jpg,baseline,dicloran,dicloran,dicloran,dicloran,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_142934 - Copy.jpg,baseline,breeky,breeky,breeky,breeky,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_143132 - Copy.jpg,baseline,pronaz,pronaz,pronaz,pronaz,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_143429 - Copy.jpg,baseline,movax,movax,movax,movax,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_143544 - Copy.jpg,baseline,cap caricef,caricef,capcaricef,caricef,cached,validated prediction supplied with the course package,False,3,0.3
+IMG_20241006_143810 - Copy.jpg,baseline,bisleri,bisleri,bisleri,bisleri,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_143853 - Copy.jpg,baseline,tab novidat,novidat,tabnovidat,novidat,cached,validated prediction supplied with the course package,False,3,0.3
+IMG_20241006_144119 - Copy.jpg,baseline,tab azitma 500mg,azitma,tabazitma500mg,azitma,cached,validated prediction supplied with the course package,False,8,0.5714285714285714
+IMG_20241006_144252 - Copy.jpg,baseline,tab tonoflex p,tonoflex,tabtonoflexp,tonoflex,cached,validated prediction supplied with the course package,False,4,0.3333333333333333
+IMG_20241006_144408 - Copy.jpg,baseline,tab nims 100mg,nims,tabnims100mg,nims,cached,validated prediction supplied with the course package,False,8,0.6666666666666666
+IMG_20241006_144505 - Copy.jpg,baseline,tab dicloran,dicloran,tabdicloran,dicloran,cached,validated prediction supplied with the course package,False,3,0.2727272727272727
+IMG_20241006_144555.jpg,baseline,tab breaky,breaky,tabbreaky,breaky,cached,validated prediction supplied with the course package,False,3,0.3333333333333333
+IMG_20241006_144641.jpg,baseline,tab provas,provas,tabprovas,provas,cached,validated prediction supplied with the course package,False,3,0.3333333333333333
+IMG_20241006_144753.jpg,baseline,cap caricef 40mg,caricef,capcaricef40mg,caricef,cached,validated prediction supplied with the course package,False,7,0.5
+IMG_20241006_144902.jpg,baseline,tab bisleri,bisleri,tabbisleri,bisleri,cached,validated prediction supplied with the course package,False,3,0.3
+IMG_20241006_144955.jpg,baseline,tab novidat,novidat,tabnovidat,novidat,cached,validated prediction supplied with the course package,False,3,0.3
+IMG_20241006_145056.jpg,baseline,tab distalgesic,distalgesic,tabdistalgesic,distalgesic,cached,validated prediction supplied with the course package,False,3,0.21428571428571427
+IMG_20241006_145141.jpg,baseline,tab atcomid,atcomid,tabatcomid,atcomid,cached,validated prediction supplied with the course package,False,3,0.3
+IMG_20241006_145250 - Copy.jpg,baseline,tab atconate,atconate,tabatconate,atconate,cached,validated prediction supplied with the course package,False,3,0.2727272727272727
+IMG_20241006_145250.jpg,baseline,tab atconate,atconate,tabatconate,atconate,cached,validated prediction supplied with the course package,False,3,0.2727272727272727
+IMG_20241006_145439.jpg,baseline,tab mesulid,mesulid,tabmesulid,mesulid,cached,validated prediction supplied with the course package,False,3,0.3
+IMG_20241006_145636.jpg,baseline,movelate,movelate,movelate,movelate,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_145902.jpg,baseline,uriguard,uriguard,uriguard,uriguard,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_150012 - Copy.jpg,baseline,na dard,nadard,nadard,nadard,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_150012.jpg,baseline,na dard,nadard,nadard,nadard,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_150045.jpg,baseline,tab atcam,atcam,tabatcam,atcam,cached,validated prediction supplied with the course package,False,3,0.375
+IMG_20241006_150130.jpg,baseline,tab my d,myd,tabmyd,myd,cached,validated prediction supplied with the course package,False,3,0.5
+IMG_20241006_150224.jpg,baseline,tab ostium,ostium,tabostium,ostium,cached,validated prediction supplied with the course package,False,3,0.3333333333333333
+IMG_20241006_150321.jpg,baseline,tab distalgasic,distalgasic,tabdistalgasic,distalgasic,cached,validated prediction supplied with the course package,False,3,0.21428571428571427
+IMG_20241006_150507.jpg,baseline,tab atcomid,atcomid,tabatcomid,atcomid,cached,validated prediction supplied with the course package,False,3,0.3
+IMG_20241006_150800.jpg,baseline,tab atconate,atconate,tabatconate,atconate,cached,validated prediction supplied with the course package,False,3,0.2727272727272727
+IMG_20241006_150836.jpg,baseline,tab mesulid,mesulid,tabmesulid,mesulid,cached,validated prediction supplied with the course package,False,3,0.3
+IMG_20241006_150902.jpg,baseline,tab movalate,movalate,tabmovalate,movalate,cached,validated prediction supplied with the course package,False,3,0.2727272727272727
+IMG_20241006_150946.jpg,baseline,tab uriguard,uriguard,taburiguard,uriguard,cached,validated prediction supplied with the course package,False,3,0.2727272727272727
+IMG_20241006_151057.jpg,baseline,tab na dard,nadard,tabnadard,nadard,cached,validated prediction supplied with the course package,False,3,0.3333333333333333
+IMG_20241006_151126.jpg,baseline,tab atcam,atcam,tabatcam,atcam,cached,validated prediction supplied with the course package,False,3,0.375
+IMG_20241006_151222.jpg,baseline,tab my d,myd,tabmyd,myd,cached,validated prediction supplied with the course package,False,3,0.5
+IMG_20241006_151517.jpg,baseline,tab ostium,ostium,tabostium,ostium,cached,validated prediction supplied with the course package,False,3,0.3333333333333333
+IMG_20241006_151556.jpg,baseline,tab getryl 1mg,getryl,tabgetryl1mg,getryl,cached,validated prediction supplied with the course package,False,6,0.5
+IMG_20241006_151638.jpg,baseline,tab covam 5-80mg,covam,tabcovam580mg,covam,cached,validated prediction supplied with the course package,False,8,0.6153846153846154
+IMG_20241006_151719.jpg,baseline,tab fexet 60mg,fexet,tabfexet60mg,fexet,cached,validated prediction supplied with the course package,False,7,0.5833333333333334
+IMG_20241006_151807.jpg,baseline,starcox 90,starcox,starcox90,starcox90,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_151901.jpg,baseline,leflox 200mg,leflox,leflox200mg,leflox200mg,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_152046.jpg,baseline,cefiget 40mg,cefiget,cefiget40mg,cefiget40mg,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_152156.jpg,baseline,tab lipiget 10mg,lipiget,tablipiget10mg,lipiget,cached,validated prediction supplied with the course package,False,7,0.5
+IMG_20241006_152333.jpg,baseline,cap risek 20mg,risek,caprisek20mg,risek,cached,validated prediction supplied with the course package,False,7,0.5833333333333334
+IMG_20241006_152453.jpg,baseline,nebil,nebil,nebil,nebil,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_152643.jpg,baseline,tab montiget 10mg,montiget,tabmontiget10mg,montiget,cached,validated prediction supplied with the course package,False,7,0.4666666666666667
+IMG_20241006_152937.jpg,baseline,montiget,montiget,montiget,montiget,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_153027.jpg,baseline,getryl,getryl,getryl,getryl,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_153118.jpg,baseline,covam,covam,covam,covam,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_153145.jpg,baseline,fexet,fexet,fexet,fexet,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_153240.jpg,baseline,starcox 90,starcox,starcox90,starcox90,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_153705.jpg,baseline,leflox,leflox,leflox,leflox,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_153802.jpg,baseline,risek,risek,risek,risek,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_153855.jpg,baseline,lipiget,lipiget,lipiget,lipiget,cached,validated prediction supplied with the course package,True,0,0.0
+img 10.jpg,baseline,novidate,novidate,novidate,novidate,cached,validated prediction supplied with the course package,True,0,0.0
+img 11.jpg,baseline,getryl,getryl,getryl,getryl,cached,validated prediction supplied with the course package,True,0,0.0
+img 12.jpg,baseline,covam,covam,covam,covam,cached,validated prediction supplied with the course package,True,0,0.0
+img 13.jpg,baseline,fixit,fixit,fixit,fixit,cached,validated prediction supplied with the course package,True,0,0.0
+img 14.jpg,baseline,starcox,starcox,starcox,starcox,cached,validated prediction supplied with the course package,True,0,0.0
+img 15.jpg,baseline,leflox,leflox,leflox,leflox,cached,validated prediction supplied with the course package,True,0,0.0
+img 16.jpg,baseline,cefeget,cefeget,cefeget,cefeget,cached,validated prediction supplied with the course package,True,0,0.0
+img 17.jpg,baseline,risek,risek,risek,risek,cached,validated prediction supplied with the course package,True,0,0.0
+img 18.jpg,baseline,lipiget,lipiget,lipiget,lipiget,cached,validated prediction supplied with the course package,True,0,0.0
+img 19.jpg,baseline,montiget,montiget,montiget,montiget,cached,validated prediction supplied with the course package,True,0,0.0
+img 20.jpg,baseline,distalgesic,distalgesic,distalgesic,distalgesic,cached,validated prediction supplied with the course package,True,0,0.0
+img 21.jpg,baseline,tab atcomid,atcomid,tabatcomid,atcomid,cached,validated prediction supplied with the course package,False,3,0.3
+img 22.jpg,baseline,tab atconate,atconate,tabatconate,atconate,cached,validated prediction supplied with the course package,False,3,0.2727272727272727
+img 23.jpg,baseline,tab mesulid,mesulid,tabmesulid,mesulid,cached,validated prediction supplied with the course package,False,3,0.3
+img 24.jpg,baseline,tab movelate,movelate,tabmovelate,movelate,cached,validated prediction supplied with the course package,False,3,0.2727272727272727
+img 25.jpg,baseline,tab uriguard,uriguard,taburiguard,uriguard,cached,validated prediction supplied with the course package,False,3,0.2727272727272727
+img 26.jpg,baseline,tab na dard,nadard,tabnadard,nadard,cached,validated prediction supplied with the course package,False,3,0.3333333333333333
+img 27.jpg,baseline,tab atcam,atcam,tabatcam,atcam,cached,validated prediction supplied with the course package,False,3,0.375
+img 28.jpg,baseline,my-d,myd,myd,myd,cached,validated prediction supplied with the course package,True,0,0.0
+img 29.jpg,baseline,ostium,ostium,ostium,ostium,cached,validated prediction supplied with the course package,True,0,0.0
+img 3 .jpg,baseline,nims,nims,nims,nims,cached,validated prediction supplied with the course package,True,0,0.0
+img 4.jpg,baseline,dicloran,dicloran,dicloran,dicloran,cached,validated prediction supplied with the course package,True,0,0.0
+img 5.jpg,baseline,breeky,breeky,breeky,breeky,cached,validated prediction supplied with the course package,True,0,0.0
+img 6.jpg,baseline,provas,provas,provas,provas,cached,validated prediction supplied with the course package,True,0,0.0
+img 7.jpg,baseline,movax,movax,movax,movax,cached,validated prediction supplied with the course package,True,0,0.0
+img 8.jpg,baseline,caricef,caricef,caricef,caricef,cached,validated prediction supplied with the course package,True,0,0.0
+img 9.jpg,baseline,bisleri,bisleri,bisleri,bisleri,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_151957.jpg,baseline,cefiget 40mg,cefiget,cefiget40mg,cefiget40mg,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_140831 - Copy (2).jpg,baseline,azitma,azitma,azitma,azitma,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_141949 - Copy.jpg,grayscale_border_resize,tab azimax,azimax,tabazimax,azimax,cached,validated prediction supplied with the course package,False,3,0.3333333333333333
+IMG_20241006_142328 - Copy.jpg,grayscale_border_resize,tab toniflex,toniflex,tabtoniflex,toniflex,cached,validated prediction supplied with the course package,False,3,0.2727272727272727
+IMG_20241006_142533 - Copy.jpg,grayscale_border_resize,nims,nims,nims,nims,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_142757 - Copy.jpg,grayscale_border_resize,dicloran,dicloran,dicloran,dicloran,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_142934 - Copy.jpg,grayscale_border_resize,breeky,breeky,breeky,breeky,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_143132 - Copy.jpg,grayscale_border_resize,pronaz,pronaz,pronaz,pronaz,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_143429 - Copy.jpg,grayscale_border_resize,movax,movax,movax,movax,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_143544 - Copy.jpg,grayscale_border_resize,cap caricef,caricef,capcaricef,caricef,cached,validated prediction supplied with the course package,False,3,0.3
+IMG_20241006_143810 - Copy.jpg,grayscale_border_resize,bisleri,bisleri,bisleri,bisleri,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_143853 - Copy.jpg,grayscale_border_resize,tab novidat,novidat,tabnovidat,novidat,cached,validated prediction supplied with the course package,False,3,0.3
+IMG_20241006_144119 - Copy.jpg,grayscale_border_resize,tab azitma 500mg,azitma,tabazitma500mg,azitma,cached,validated prediction supplied with the course package,False,8,0.5714285714285714
+IMG_20241006_144252 - Copy.jpg,grayscale_border_resize,tab tonoflex p,tonoflex,tabtonoflexp,tonoflex,cached,validated prediction supplied with the course package,False,4,0.3333333333333333
+IMG_20241006_144408 - Copy.jpg,grayscale_border_resize,tab nims 100mg,nims,tabnims100mg,nims,cached,validated prediction supplied with the course package,False,8,0.6666666666666666
+IMG_20241006_144505 - Copy.jpg,grayscale_border_resize,tab dicloran,dicloran,tabdicloran,dicloran,cached,validated prediction supplied with the course package,False,3,0.2727272727272727
+IMG_20241006_144555.jpg,grayscale_border_resize,tab breaky,breaky,tabbreaky,breaky,cached,validated prediction supplied with the course package,False,3,0.3333333333333333
+IMG_20241006_144641.jpg,grayscale_border_resize,tab provas,provas,tabprovas,provas,cached,validated prediction supplied with the course package,False,3,0.3333333333333333
+IMG_20241006_144753.jpg,grayscale_border_resize,cap caricef 40mg,caricef,capcaricef40mg,caricef,cached,validated prediction supplied with the course package,False,7,0.5
+IMG_20241006_144902.jpg,grayscale_border_resize,tab bisleri,bisleri,tabbisleri,bisleri,cached,validated prediction supplied with the course package,False,3,0.3
+IMG_20241006_144955.jpg,grayscale_border_resize,tab novidat,novidat,tabnovidat,novidat,cached,validated prediction supplied with the course package,False,3,0.3
+IMG_20241006_145056.jpg,grayscale_border_resize,tab distalgesic,distalgesic,tabdistalgesic,distalgesic,cached,validated prediction supplied with the course package,False,3,0.21428571428571427
+IMG_20241006_145141.jpg,grayscale_border_resize,tab atcomid,atcomid,tabatcomid,atcomid,cached,validated prediction supplied with the course package,False,3,0.3
+IMG_20241006_145250 - Copy.jpg,grayscale_border_resize,tab atconate,atconate,tabatconate,atconate,cached,validated prediction supplied with the course package,False,3,0.2727272727272727
+IMG_20241006_145250.jpg,grayscale_border_resize,tab atconate,atconate,tabatconate,atconate,cached,validated prediction supplied with the course package,False,3,0.2727272727272727
+IMG_20241006_145439.jpg,grayscale_border_resize,tab mesulid,mesulid,tabmesulid,mesulid,cached,validated prediction supplied with the course package,False,3,0.3
+IMG_20241006_145636.jpg,grayscale_border_resize,movelate,movelate,movelate,movelate,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_145902.jpg,grayscale_border_resize,uriguard,uriguard,uriguard,uriguard,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_150012 - Copy.jpg,grayscale_border_resize,na dard,nadard,nadard,nadard,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_150012.jpg,grayscale_border_resize,na dard,nadard,nadard,nadard,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_150045.jpg,grayscale_border_resize,tab atcam,atcam,tabatcam,atcam,cached,validated prediction supplied with the course package,False,3,0.375
+IMG_20241006_150130.jpg,grayscale_border_resize,tab my d,myd,tabmyd,myd,cached,validated prediction supplied with the course package,False,3,0.5
+IMG_20241006_150224.jpg,grayscale_border_resize,tab ostium,ostium,tabostium,ostium,cached,validated prediction supplied with the course package,False,3,0.3333333333333333
+IMG_20241006_150321.jpg,grayscale_border_resize,tab distalgasic,distalgasic,tabdistalgasic,distalgasic,cached,validated prediction supplied with the course package,False,3,0.21428571428571427
+IMG_20241006_150507.jpg,grayscale_border_resize,tab atcomid,atcomid,tabatcomid,atcomid,cached,validated prediction supplied with the course package,False,3,0.3
+IMG_20241006_150800.jpg,grayscale_border_resize,tab atconate,atconate,tabatconate,atconate,cached,validated prediction supplied with the course package,False,3,0.2727272727272727
+IMG_20241006_150836.jpg,grayscale_border_resize,tab mesulid,mesulid,tabmesulid,mesulid,cached,validated prediction supplied with the course package,False,3,0.3
+IMG_20241006_150902.jpg,grayscale_border_resize,tab movalate,movalate,tabmovalate,movalate,cached,validated prediction supplied with the course package,False,3,0.2727272727272727
+IMG_20241006_150946.jpg,grayscale_border_resize,tab uriguard,uriguard,taburiguard,uriguard,cached,validated prediction supplied with the course package,False,3,0.2727272727272727
+IMG_20241006_151057.jpg,grayscale_border_resize,tab na dard,nadard,tabnadard,nadard,cached,validated prediction supplied with the course package,False,3,0.3333333333333333
+IMG_20241006_151126.jpg,grayscale_border_resize,tab atcam,atcam,tabatcam,atcam,cached,validated prediction supplied with the course package,False,3,0.375
+IMG_20241006_151222.jpg,grayscale_border_resize,tab my d,myd,tabmyd,myd,cached,validated prediction supplied with the course package,False,3,0.5
+IMG_20241006_151517.jpg,grayscale_border_resize,tab ostium,ostium,tabostium,ostium,cached,validated prediction supplied with the course package,False,3,0.3333333333333333
+IMG_20241006_151556.jpg,grayscale_border_resize,tab getryl 1mg,getryl,tabgetryl1mg,getryl,cached,validated prediction supplied with the course package,False,6,0.5
+IMG_20241006_151638.jpg,grayscale_border_resize,tab covam 5-80mg,covam,tabcovam580mg,covam,cached,validated prediction supplied with the course package,False,8,0.6153846153846154
+IMG_20241006_151719.jpg,grayscale_border_resize,tab fexet 60mg,fexet,tabfexet60mg,fexet,cached,validated prediction supplied with the course package,False,7,0.5833333333333334
+IMG_20241006_151807.jpg,grayscale_border_resize,starcox 90,starcox,starcox90,starcox90,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_151901.jpg,grayscale_border_resize,leflox 200mg,leflox,leflox200mg,leflox200mg,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_152046.jpg,grayscale_border_resize,cefiget 40mg,cefiget,cefiget40mg,cefiget40mg,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_152156.jpg,grayscale_border_resize,tab lipiget 10mg,lipiget,tablipiget10mg,lipiget,cached,validated prediction supplied with the course package,False,7,0.5
+IMG_20241006_152333.jpg,grayscale_border_resize,cap risek 20mg,risek,caprisek20mg,risek,cached,validated prediction supplied with the course package,False,7,0.5833333333333334
+IMG_20241006_152453.jpg,grayscale_border_resize,nebil,nebil,nebil,nebil,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_152643.jpg,grayscale_border_resize,tab montiget 10mg,montiget,tabmontiget10mg,montiget,cached,validated prediction supplied with the course package,False,7,0.4666666666666667
+IMG_20241006_152937.jpg,grayscale_border_resize,montiget,montiget,montiget,montiget,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_153027.jpg,grayscale_border_resize,getryl,getryl,getryl,getryl,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_153118.jpg,grayscale_border_resize,covam,covam,covam,covam,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_153145.jpg,grayscale_border_resize,fexet,fexet,fexet,fexet,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_153240.jpg,grayscale_border_resize,starcox 90,starcox,starcox90,starcox90,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_153705.jpg,grayscale_border_resize,leflox,leflox,leflox,leflox,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_153802.jpg,grayscale_border_resize,risek,risek,risek,risek,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_153855.jpg,grayscale_border_resize,lipiget,lipiget,lipiget,lipiget,cached,validated prediction supplied with the course package,True,0,0.0
+img 10.jpg,grayscale_border_resize,novidate,novidate,novidate,novidate,cached,validated prediction supplied with the course package,True,0,0.0
+img 11.jpg,grayscale_border_resize,getryl,getryl,getryl,getryl,cached,validated prediction supplied with the course package,True,0,0.0
+img 12.jpg,grayscale_border_resize,covam,covam,covam,covam,cached,validated prediction supplied with the course package,True,0,0.0
+img 13.jpg,grayscale_border_resize,fixit,fixit,fixit,fixit,cached,validated prediction supplied with the course package,True,0,0.0
+img 14.jpg,grayscale_border_resize,starcox,starcox,starcox,starcox,cached,validated prediction supplied with the course package,True,0,0.0
+img 15.jpg,grayscale_border_resize,leflox,leflox,leflox,leflox,cached,validated prediction supplied with the course package,True,0,0.0
+img 16.jpg,grayscale_border_resize,cefeget,cefeget,cefeget,cefeget,cached,validated prediction supplied with the course package,True,0,0.0
+img 17.jpg,grayscale_border_resize,risek,risek,risek,risek,cached,validated prediction supplied with the course package,True,0,0.0
+img 18.jpg,grayscale_border_resize,lipiget,lipiget,lipiget,lipiget,cached,validated prediction supplied with the course package,True,0,0.0
+img 19.jpg,grayscale_border_resize,montiget,montiget,montiget,montiget,cached,validated prediction supplied with the course package,True,0,0.0
+img 20.jpg,grayscale_border_resize,distalgesic,distalgesic,distalgesic,distalgesic,cached,validated prediction supplied with the course package,True,0,0.0
+img 21.jpg,grayscale_border_resize,tab atcomid,atcomid,tabatcomid,atcomid,cached,validated prediction supplied with the course package,False,3,0.3
+img 22.jpg,grayscale_border_resize,tab atconate,atconate,tabatconate,atconate,cached,validated prediction supplied with the course package,False,3,0.2727272727272727
+img 23.jpg,grayscale_border_resize,tab mesulid,mesulid,tabmesulid,mesulid,cached,validated prediction supplied with the course package,False,3,0.3
+img 24.jpg,grayscale_border_resize,tab movelate,movelate,tabmovelate,movelate,cached,validated prediction supplied with the course package,False,3,0.2727272727272727
+img 25.jpg,grayscale_border_resize,tab uriguard,uriguard,taburiguard,uriguard,cached,validated prediction supplied with the course package,False,3,0.2727272727272727
+img 26.jpg,grayscale_border_resize,tab na dard,nadard,tabnadard,nadard,cached,validated prediction supplied with the course package,False,3,0.3333333333333333
+img 27.jpg,grayscale_border_resize,tab atcam,atcam,tabatcam,atcam,cached,validated prediction supplied with the course package,False,3,0.375
+img 28.jpg,grayscale_border_resize,my-d,myd,myd,myd,cached,validated prediction supplied with the course package,True,0,0.0
+img 29.jpg,grayscale_border_resize,ostium,ostium,ostium,ostium,cached,validated prediction supplied with the course package,True,0,0.0
+img 3 .jpg,grayscale_border_resize,nims,nims,nims,nims,cached,validated prediction supplied with the course package,True,0,0.0
+img 4.jpg,grayscale_border_resize,dicloran,dicloran,dicloran,dicloran,cached,validated prediction supplied with the course package,True,0,0.0
+img 5.jpg,grayscale_border_resize,breeky,breeky,breeky,breeky,cached,validated prediction supplied with the course package,True,0,0.0
+img 6.jpg,grayscale_border_resize,provas,provas,provas,provas,cached,validated prediction supplied with the course package,True,0,0.0
+img 7.jpg,grayscale_border_resize,movax,movax,movax,movax,cached,validated prediction supplied with the course package,True,0,0.0
+img 8.jpg,grayscale_border_resize,caricef,caricef,caricef,caricef,cached,validated prediction supplied with the course package,True,0,0.0
+img 9.jpg,grayscale_border_resize,bisleri,bisleri,bisleri,bisleri,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_151957.jpg,grayscale_border_resize,cefiget 40mg,cefiget,cefiget40mg,cefiget40mg,cached,validated prediction supplied with the course package,True,0,0.0
+IMG_20241006_140831 - Copy (2).jpg,grayscale_border_resize,azitma,azitma,azitma,azitma,cached,validated prediction supplied with the course package,True,0,0.0
