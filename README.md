@@ -23,6 +23,7 @@
 | **Lab 04** | [Lab 04 Script](all_experiments/lab04_fuzzy_anfis.py) | [Lab 04 Results](results/lab04/) |
 | **Lab 05** | [Lab 05 Script](all_experiments/lab05_robotics_sensor_control.py) | [Lab 05 Results](results/lab05/) |
 | **Lab 06** | [Lab 06 Script](all_experiments/lab06_handwriting_ocr_worked.py) | [Lab 06 Results](results/lab06/) |
+| **Lab 07** | [Lab 07 Script](all_experiments/lab07_airline_sentiment.py) | [Lab 07 Results](results/lab07/) |
 
 ---
 
