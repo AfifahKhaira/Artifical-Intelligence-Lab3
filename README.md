@@ -32,5 +32,5 @@
 | Assignment | Document / File & Evidence |
 | :--- | :--- |
 | **Assignment 2 (Week 05)**<br>[Informed Search] | [Assignment 2 Document](Assignment_2_week05.docx) |
-| **Assignment 3 (Week 06)**<br>[NLP - OCR] | <ul><li>[PDF Submission](assignments/Assignment%203_week09/Lab06_OCR_Assignment_TuanNurAfifahKhairaZulfaBintiTuanZaki_24006290.pdf)</li><li>[Evidence Folder](assignments/Assignment%203_week09/evidence/)</li></ul> |
-| **Assignment 4 (Week 07)**<br>[NLP - Semantic Networks] | <ul><li>[PDF Submission](assignments/Assignment%204_week10/Lab08_Assignment_TuanNurAfifahKhairaZulfaBintiTuanZaki_24006290.pdf)</li><li>[Semantic Network Diagram](assignments/Assignment%204_week10/semantic_network.png)</li></ul> |
+| **Assignment 3 (Week 09)**<br>[NLP - OCR] | <ul><li>[PDF Submission](assignments/Assignment%203_week09/Lab06_OCR_Assignment_TuanNurAfifahKhairaZulfaBintiTuanZaki_24006290.pdf)</li><li>[Evidence Folder](assignments/Assignment%203_week09/evidence/)</li></ul> |
+| **Assignment 4 (Week 10)**<br>[NLP - Semantic Networks] | <ul><li>[PDF Submission](assignments/Assignment%204_week10/Lab08_Assignment_TuanNurAfifahKhairaZulfaBintiTuanZaki_24006290.pdf)</li><li>[Semantic Network Diagram](assignments/Assignment%204_week10/semantic_network.png)</li></ul> |
