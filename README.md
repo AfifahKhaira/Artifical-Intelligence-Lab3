@@ -24,6 +24,7 @@
 | **Lab 05** | [Lab 05 Script](all_experiments/lab05_robotics_sensor_control.py) | [Lab 05 Results](results/lab05/) |
 | **Lab 06** | [Lab 06 Script](all_experiments/lab06_handwriting_ocr_worked.py) | [Lab 06 Results](results/lab06/) |
 | **Lab 07** | [Lab 07 Script](all_experiments/lab07_airline_sentiment.py) | [Lab 07 Results](results/lab07/) |
+| **Lab 08** | [Lab 08 Script](all_experiments/lab08_genetic_algorithm_regression.py) | [Lab 08 Results](results/lab08/) |
 
 ---
 
@@ -34,3 +35,4 @@
 | **Assignment 2 (Week 05)**<br>[Informed Search] | [Assignment 2 Document](Assignment_2_week05.docx) |
 | **Assignment 3 (Week 09)**<br>[NLP - OCR] | <ul><li>[PDF Submission](assignments/Assignment%203_week09/Lab06_OCR_Assignment_TuanNurAfifahKhairaZulfaBintiTuanZaki_24006290.pdf)</li><li>[Evidence Folder](assignments/Assignment%203_week09/evidence/)</li></ul> |
 | **Assignment 4 (Week 10)**<br>[NLP - Semantic Networks] | <ul><li>[PDF Submission](assignments/Assignment%204_week10/Lab08_Assignment_TuanNurAfifahKhairaZulfaBintiTuanZaki_24006290.pdf)</li><li>[Semantic Network Diagram](assignments/Assignment%204_week10/semantic_network.png)</li></ul> |
+| **Assignment 5 (Week 11)**<br>[Genetic Algorithm] | <ul><li>[PDF Submission](assignments/Assignment%205_week11/Genetic_Algorithm_Assignment_TuanNurAfifahKhairaZulfaBintiTuanZaki_24006290.pdf)</li><li>[Python Script](assignments/Assignment%205_week11/delivery_route_ga.py)</li><li>[Output Screenshot](assignments/Assignment%205_week11/output_console.png)</li></ul> |
